@@ -161,12 +161,13 @@ Letter Pack ၂ ခု လိုအပ်ကြောင်း ဖော်ပ�
 
 ### သံရုံးလိပ်စာ
 
-```
 140-0001
+
 4-8-26, Kita Shinagawa, Shinagawa Ku, Tokyo 140-0001
+
 Myanmar Embassy, Tokyo
+
 Consular Section (Passport သက်တမ်းတိုး)
-```
 
 [Official Website](https://myanmarembassytokyo.org/)
 
